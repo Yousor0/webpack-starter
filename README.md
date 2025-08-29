@@ -2,11 +2,11 @@
 
 # -------------------------
 
-# Installation:
+## Installation:
 ### 1. Clone the repository and install dependencies:
   ``` npm install ```
 
-# Scripts: 
+## Scripts: 
 ### Build:
   ``` npm run build ```
 ### Development Server:
@@ -19,3 +19,4 @@ _https://tracalorieappyousor0.netlify.app/_
 ## Notes:
 - Ensure you are using Node.js LTS version for best compatibility.
 - You can customize Webpack configuration in webpack.config.js.
+
