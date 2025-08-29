@@ -1,4 +1,4 @@
-﻿# webpack-starter
+﻿# Webpack Starter Kit
 
 # -------------------------
 
@@ -16,3 +16,4 @@
 
 # App Demo: 
 _https://tracalorieappyousor0.netlify.app/_
+
