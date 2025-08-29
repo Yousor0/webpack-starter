@@ -1,6 +1,5 @@
 ﻿# Webpack Starter Kit
-
-# -------------------------
+-----------------------------------
 
 ## Installation:
 ### 1. Clone the repository and install dependencies:
@@ -19,4 +18,5 @@ _https://tracalorieappyousor0.netlify.app/_
 ## Notes:
 - Ensure you are using Node.js LTS version for best compatibility.
 - You can customize Webpack configuration in webpack.config.js.
+
 
