@@ -3,17 +3,19 @@
 # -------------------------
 
 # Installation:
-### 1. npm install
-  - Download all dependencies
-### 2. npm start build
-  - Creates dist folder and files
+### 1. Clone the repository and install dependencies:
+  ``` npm install ```
 
-# Commands: 
-### 1. npm start build:
-  - Saves edits in the "src" to "dist"
-### 2. npm start dev:
-  - run webpack server
+# Scripts: 
+### Build:
+  ``` npm run build ```
+### Development Server:
+  ``` npm run dev ```
 
-# App Demo: 
+## App Demo: 
+Check out the live demo here:
 _https://tracalorieappyousor0.netlify.app/_
 
+## Notes:
+- Ensure you are using Node.js LTS version for best compatibility.
+- You can customize Webpack configuration in webpack.config.js.
